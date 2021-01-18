@@ -5,7 +5,7 @@ A simple outline for testing an online/offline internet connection. I came acros
 ---
 
 reference2:
-[mdn]((https://developer.mozilla.org/en-US/docs/Web/API/Window/DOMContentLoaded_event))
+[mdn](https://developer.mozilla.org/en-US/docs/Web/API/Window/DOMContentLoaded_event)
 
 
 >Turn on/off your internet connection to properly test this function.
