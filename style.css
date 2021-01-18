@@ -1,0 +1,29 @@
+* {
+    margin:0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+
+#status {
+    position: relative;
+    width: 40%;
+    font: bold 1em sans-serif;
+    color: #FFF;
+    padding: 0.5em;
+  }
+  
+  #display {
+    font: 1em sans-serif;
+  }
+  
+  .online {
+    background: rgb(1, 116, 1);
+  }
+  
+  .offline {
+    background: rgb(236, 10, 10);
+  }
